@@ -1,3 +1,4 @@
 
 PyQt5 5.15.6 : pip install PyQt5
 PyQtWebEngine : pip install PyQtWebEngine
+Launch with command : python3 .\nav.py 
