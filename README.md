@@ -10,7 +10,7 @@ pip install PyQt5
 pip install PyQtWebEngine
 
 ```
-Then you just have to type the command : ``` python3 .\nav.py ```
+Then you just have to type the command : ``` python3 .\nemegateur.py ```
 
 # Author
 Corentin Chenu 
