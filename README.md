@@ -18,6 +18,9 @@ Just launch the application and you will arrive on a common browser.You have to 
 
 ![image](https://user-images.githubusercontent.com/70575835/150786942-e9860fd1-5a9a-49c6-81b2-ad39fcaf9d2d.png)
 
+![image](https://user-images.githubusercontent.com/70575835/150787020-5a83dd91-c7b0-47fc-868d-474c73f09b45.png)
+
+
 
 # Author
 Corentin Chenu 
