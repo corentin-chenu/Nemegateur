@@ -4,6 +4,11 @@ For the purpose of an object-oriented programming project, we had to choose a pr
 
 # Startup
 To launch the application, just download the file "nemegateur.py" and install the libraries indicated in the file "Requirements.txt. 
+```
+pip install PyQt5
+pip install PyQtWebEngine
+
+```
 Then you just have to type the command : ``` python3 .\nav.py ```
 
 # Author
