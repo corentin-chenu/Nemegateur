@@ -6,8 +6,7 @@ PyQt5 is a module that allows you to create graphical interfaces in Python
 # Startup
 To launch the application, just download the file "nemegateur.py" and install the libraries indicated in the file "Requirements.txt. 
 ```
-pip install PyQt5
-pip install PyQtWebEngine
+pip install requirements.txt
 
 ```
 Then you just have to type the command : ``` python3 .\nemegateur.py ```
