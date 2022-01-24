@@ -12,6 +12,13 @@ pip install PyQtWebEngine
 ```
 Then you just have to type the command : ``` python3 .\nemegateur.py ```
 
+# Usage 
+
+Just launch the application and you will arrive on a common browser.You have to type in the search bar to navigate 
+
+![image](https://user-images.githubusercontent.com/70575835/150786942-e9860fd1-5a9a-49c6-81b2-ad39fcaf9d2d.png)
+
+
 # Author
 Corentin Chenu 
 
